@@ -1,0 +1,4 @@
+Посылка с реализацией через широкую прямоугольную область:
+https://dsahse25.contest.codeforces.com/group/SLdI1pWUpC/contest/647790/submission/349247284
+Посылка с реализацией через узкую прямоугольную область:
+https://dsahse25.contest.codeforces.com/group/SLdI1pWUpC/contest/647790/submission/349247329
