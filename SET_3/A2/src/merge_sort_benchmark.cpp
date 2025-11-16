@@ -24,6 +24,7 @@
 #include <cstring>
 
 #include "ArrayGenerator.h"
+#include "SortTester.h"
 
 using namespace std;
 
@@ -77,59 +78,12 @@ void merge_sort(vector<int>& mas, int l, int r, int threshold = 1) { // [l, r)
     }
 }
 
-
 void solve() {
     const int max_n = 100000;
     ArrayGenerator array_generator(max_n, 0, 10000);
+    SortTester tester(array_generator);
 
-    const int RUNS = 7;
-
-    ofstream fout_random("merge_random.csv");
-    ofstream fout_decreasing("merge_decreasing.csv");
-    ofstream fout_almost("merge_almost.csv");
-
-    fout_random << "n,time_ms\n";
-    fout_decreasing << "n,time_ms\n";
-    fout_almost << "n,time_ms\n";
-
-    for (int n = 500; n <= max_n; n += 100) {
-
-        long long sum_random = 0;
-        long long sum_decreasing = 0;
-        long long sum_almost = 0;
-
-        for (int it = 0; it < RUNS; it++) {
-            {
-                auto v = array_generator.GetRandomVector(n);
-                auto start = chrono::high_resolution_clock::now();
-                merge_sort(v, 0, v.size());
-                auto elapsed = chrono::high_resolution_clock::now() - start;
-                sum_random += chrono::duration_cast<chrono::microseconds>(elapsed).count();
-            }
-
-            {
-                auto v = array_generator.GetDecreasingVector(n);
-                auto start = chrono::high_resolution_clock::now();
-                merge_sort(v, 0, v.size());
-                auto elapsed = chrono::high_resolution_clock::now() - start;
-                sum_decreasing += chrono::duration_cast<chrono::microseconds>(elapsed).count();
-            }
-
-            {
-                auto v = array_generator.GetAlmostSortedVector(n);
-                auto start = chrono::high_resolution_clock::now();
-                merge_sort(v, 0, v.size());
-                auto elapsed = chrono::high_resolution_clock::now() - start;
-                sum_almost += chrono::duration_cast<chrono::microseconds>(elapsed).count();
-            }
-        }
-
-        fout_random << n << "," << (sum_random / RUNS) / 1000.0 << "\n";
-        fout_decreasing << n << "," << (sum_decreasing / RUNS) / 1000.0 << "\n";
-        fout_almost << n << "," << (sum_almost / RUNS) / 1000.0 << "\n";
-
-        cerr << "Done n=" << n << "\n";
-    }
+    tester.testMergeSort(merge_sort,  "merge");
 }
 
 
