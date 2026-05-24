@@ -1,0 +1,541 @@
+Algorithm,DataType,Size,Time_us,Comparisons
+Standard QuickSort,Random,100,161,14480
+Standard MergeSort,Random,100,92,611
+String MergeSort,Random,100,101,514
+Ternary QuickSort,Random,100,43,1163
+MSD Radix Sort,Random,100,76,0
+MSD Radix+Quick,Random,100,26,169
+Standard QuickSort,Reversed,100,139,13328
+Standard MergeSort,Reversed,100,74,567
+String MergeSort,Reversed,100,83,326
+Ternary QuickSort,Reversed,100,47,1137
+MSD Radix Sort,Reversed,100,63,0
+MSD Radix+Quick,Reversed,100,47,791
+Standard QuickSort,Almost,100,172,16316
+Standard MergeSort,Almost,100,78,818
+String MergeSort,Almost,100,88,405
+Ternary QuickSort,Almost,100,35,1037
+MSD Radix Sort,Almost,100,58,0
+MSD Radix+Quick,Almost,100,40,683
+Standard QuickSort,Random,200,317,27614
+Standard MergeSort,Random,200,193,1507
+String MergeSort,Random,200,230,1208
+Ternary QuickSort,Random,200,87,2389
+MSD Radix Sort,Random,200,144,0
+MSD Radix+Quick,Random,200,60,524
+Standard QuickSort,Reversed,200,311,30780
+Standard MergeSort,Reversed,200,167,1316
+String MergeSort,Reversed,200,187,700
+Ternary QuickSort,Reversed,200,65,2402
+MSD Radix Sort,Reversed,200,128,0
+MSD Radix+Quick,Reversed,200,90,1635
+Standard QuickSort,Almost,200,371,32879
+Standard MergeSort,Almost,200,191,1650
+String MergeSort,Almost,200,205,893
+Ternary QuickSort,Almost,200,74,2348
+MSD Radix Sort,Almost,200,119,0
+MSD Radix+Quick,Almost,200,83,1290
+Standard QuickSort,Random,300,527,44492
+Standard MergeSort,Random,300,295,2520
+String MergeSort,Random,300,374,1927
+Ternary QuickSort,Random,300,138,4082
+MSD Radix Sort,Random,300,185,0
+MSD Radix+Quick,Random,300,96,987
+Standard QuickSort,Reversed,300,450,45898
+Standard MergeSort,Reversed,300,270,2056
+String MergeSort,Reversed,300,295,1082
+Ternary QuickSort,Reversed,300,106,3746
+MSD Radix Sort,Reversed,300,190,0
+MSD Radix+Quick,Reversed,300,139,2573
+Standard QuickSort,Almost,300,520,47789
+Standard MergeSort,Almost,300,299,2931
+String MergeSort,Almost,300,329,1464
+Ternary QuickSort,Almost,300,112,3696
+MSD Radix Sort,Almost,300,184,0
+MSD Radix+Quick,Almost,300,133,1997
+Standard QuickSort,Random,400,703,63357
+Standard MergeSort,Random,400,417,3633
+String MergeSort,Random,400,526,2676
+Ternary QuickSort,Random,400,185,5462
+MSD Radix Sort,Random,400,217,0
+MSD Radix+Quick,Random,400,138,1510
+Standard QuickSort,Reversed,400,593,60083
+Standard MergeSort,Reversed,400,383,2814
+String MergeSort,Reversed,400,428,1419
+Ternary QuickSort,Reversed,400,152,5450
+MSD Radix Sort,Reversed,400,232,0
+MSD Radix+Quick,Reversed,400,199,3340
+Standard QuickSort,Almost,400,703,64646
+Standard MergeSort,Almost,400,408,3902
+String MergeSort,Almost,400,465,1749
+Ternary QuickSort,Almost,400,177,5820
+MSD Radix Sort,Almost,400,236,0
+MSD Radix+Quick,Almost,400,157,2741
+Standard QuickSort,Random,500,876,76337
+Standard MergeSort,Random,500,554,4820
+String MergeSort,Random,500,685,3485
+Ternary QuickSort,Random,500,270,7277
+MSD Radix Sort,Random,500,288,0
+MSD Radix+Quick,Random,500,186,2149
+Standard QuickSort,Reversed,500,765,76002
+Standard MergeSort,Reversed,500,503,3748
+String MergeSort,Reversed,500,587,1855
+Ternary QuickSort,Reversed,500,189,7049
+MSD Radix Sort,Reversed,500,306,0
+MSD Radix+Quick,Reversed,500,241,4328
+Standard QuickSort,Almost,500,869,78939
+Standard MergeSort,Almost,500,530,5252
+String MergeSort,Almost,500,592,2292
+Ternary QuickSort,Almost,500,209,6795
+MSD Radix Sort,Almost,500,278,0
+MSD Radix+Quick,Almost,500,209,3470
+Standard QuickSort,Random,600,1065,91101
+Standard MergeSort,Random,600,701,6053
+String MergeSort,Random,600,860,4275
+Ternary QuickSort,Random,600,336,9355
+MSD Radix Sort,Random,600,311,0
+MSD Radix+Quick,Random,600,226,2803
+Standard QuickSort,Reversed,600,931,92361
+Standard MergeSort,Reversed,600,610,4437
+String MergeSort,Reversed,600,692,2182
+Ternary QuickSort,Reversed,600,235,8371
+MSD Radix Sort,Reversed,600,370,0
+MSD Radix+Quick,Reversed,600,276,5020
+Standard QuickSort,Almost,600,1079,96738
+Standard MergeSort,Almost,600,695,6434
+String MergeSort,Almost,600,758,2934
+Ternary QuickSort,Almost,600,332,9907
+MSD Radix Sort,Almost,600,353,0
+MSD Radix+Quick,Almost,600,278,4154
+Standard QuickSort,Random,700,1280,109069
+Standard MergeSort,Random,700,813,7411
+String MergeSort,Random,700,1073,5228
+Ternary QuickSort,Random,700,375,10402
+MSD Radix Sort,Random,700,340,0
+MSD Radix+Quick,Random,700,266,3451
+Standard QuickSort,Reversed,700,1130,111763
+Standard MergeSort,Reversed,700,719,5272
+String MergeSort,Reversed,700,802,2565
+Ternary QuickSort,Reversed,700,295,10497
+MSD Radix Sort,Reversed,700,429,0
+MSD Radix+Quick,Reversed,700,341,5964
+Standard QuickSort,Almost,700,1277,112812
+Standard MergeSort,Almost,700,782,7479
+String MergeSort,Almost,700,869,3410
+Ternary QuickSort,Almost,700,325,10146
+MSD Radix Sort,Almost,700,415,0
+MSD Radix+Quick,Almost,700,304,5162
+Standard QuickSort,Random,800,1497,130949
+Standard MergeSort,Random,800,951,8769
+String MergeSort,Random,800,1204,6041
+Ternary QuickSort,Random,800,450,12419
+MSD Radix Sort,Random,800,406,0
+MSD Radix+Quick,Random,800,316,4299
+Standard QuickSort,Reversed,800,1228,119790
+Standard MergeSort,Reversed,800,838,6034
+String MergeSort,Reversed,800,951,2902
+Ternary QuickSort,Reversed,800,356,12467
+MSD Radix Sort,Reversed,800,477,0
+MSD Radix+Quick,Reversed,800,400,6823
+Standard QuickSort,Almost,800,1463,133221
+Standard MergeSort,Almost,800,905,8637
+String MergeSort,Almost,800,1014,3852
+Ternary QuickSort,Almost,800,411,12670
+MSD Radix Sort,Almost,800,489,0
+MSD Radix+Quick,Almost,800,342,5926
+Standard QuickSort,Random,900,1634,139828
+Standard MergeSort,Random,900,1102,10177
+String MergeSort,Random,900,1384,6949
+Ternary QuickSort,Random,900,559,15722
+MSD Radix Sort,Random,900,482,0
+MSD Radix+Quick,Random,900,365,5032
+Standard QuickSort,Reversed,900,1421,138130
+Standard MergeSort,Reversed,900,969,7007
+String MergeSort,Reversed,900,1133,3301
+Ternary QuickSort,Reversed,900,438,14615
+MSD Radix Sort,Reversed,900,558,0
+MSD Radix+Quick,Reversed,900,427,7740
+Standard QuickSort,Almost,900,1662,150138
+Standard MergeSort,Almost,900,1108,10639
+String MergeSort,Almost,900,1189,4719
+Ternary QuickSort,Almost,900,555,17809
+MSD Radix Sort,Almost,900,514,0
+MSD Radix+Quick,Almost,900,386,6583
+Standard QuickSort,Random,1000,1859,158733
+Standard MergeSort,Random,1000,1222,11530
+String MergeSort,Random,1000,1571,7863
+Ternary QuickSort,Random,1000,617,16417
+MSD Radix Sort,Random,1000,497,0
+MSD Radix+Quick,Random,1000,419,5818
+Standard QuickSort,Reversed,1000,1577,153721
+Standard MergeSort,Reversed,1000,1103,8091
+String MergeSort,Reversed,1000,1259,3796
+Ternary QuickSort,Reversed,1000,408,14930
+MSD Radix Sort,Reversed,1000,607,0
+MSD Radix+Quick,Reversed,1000,468,8560
+Standard QuickSort,Almost,1000,1759,155145
+Standard MergeSort,Almost,1000,1228,11901
+String MergeSort,Almost,1000,1373,5050
+Ternary QuickSort,Almost,1000,544,16197
+MSD Radix Sort,Almost,1000,569,0
+MSD Radix+Quick,Almost,1000,438,7473
+Standard QuickSort,Random,1100,2068,175286
+Standard MergeSort,Random,1100,1376,12979
+String MergeSort,Random,1100,1751,8731
+Ternary QuickSort,Random,1100,651,17415
+MSD Radix Sort,Random,1100,574,0
+MSD Radix+Quick,Random,1100,465,6608
+Standard QuickSort,Reversed,1100,1801,173475
+Standard MergeSort,Reversed,1100,1229,8752
+String MergeSort,Reversed,1100,1415,4073
+Ternary QuickSort,Reversed,1100,485,18162
+MSD Radix Sort,Reversed,1100,666,0
+MSD Radix+Quick,Reversed,1100,518,9497
+Standard QuickSort,Almost,1100,1998,178357
+Standard MergeSort,Almost,1100,1353,13483
+String MergeSort,Almost,1100,1513,5708
+Ternary QuickSort,Almost,1100,557,16691
+MSD Radix Sort,Almost,1100,629,0
+MSD Radix+Quick,Almost,1100,483,8340
+Standard QuickSort,Random,1200,2309,188823
+Standard MergeSort,Random,1200,1590,14518
+String MergeSort,Random,1200,1948,9778
+Ternary QuickSort,Random,1200,762,19438
+MSD Radix Sort,Random,1200,603,0
+MSD Radix+Quick,Random,1200,519,7536
+Standard QuickSort,Reversed,1200,1922,188138
+Standard MergeSort,Reversed,1200,1348,9409
+String MergeSort,Reversed,1200,1515,4312
+Ternary QuickSort,Reversed,1200,590,19777
+MSD Radix Sort,Reversed,1200,745,0
+MSD Radix+Quick,Reversed,1200,576,10222
+Standard QuickSort,Almost,1200,2247,199257
+Standard MergeSort,Almost,1200,1498,14938
+String MergeSort,Almost,1200,1672,6547
+Ternary QuickSort,Almost,1200,662,20615
+MSD Radix Sort,Almost,1200,707,0
+MSD Radix+Quick,Almost,1200,544,9234
+Standard QuickSort,Random,1300,2563,213482
+Standard MergeSort,Random,1300,1697,16049
+String MergeSort,Random,1300,2175,10746
+Ternary QuickSort,Random,1300,776,21209
+MSD Radix Sort,Random,1300,657,0
+MSD Radix+Quick,Random,1300,582,8344
+Standard QuickSort,Reversed,1300,2053,199423
+Standard MergeSort,Reversed,1300,1477,10422
+String MergeSort,Reversed,1300,1664,4826
+Ternary QuickSort,Reversed,1300,606,22332
+MSD Radix Sort,Reversed,1300,815,0
+MSD Radix+Quick,Reversed,1300,633,11215
+Standard QuickSort,Almost,1300,2377,211854
+Standard MergeSort,Almost,1300,1599,15260
+String MergeSort,Almost,1300,1790,6858
+Ternary QuickSort,Almost,1300,729,21202
+MSD Radix Sort,Almost,1300,809,0
+MSD Radix+Quick,Almost,1300,620,10031
+Standard QuickSort,Random,1400,2774,228286
+Standard MergeSort,Random,1400,1872,17605
+String MergeSort,Random,1400,2342,11662
+Ternary QuickSort,Random,1400,852,23664
+MSD Radix Sort,Random,1400,756,0
+MSD Radix+Quick,Random,1400,636,9264
+Standard QuickSort,Reversed,1400,2244,215915
+Standard MergeSort,Reversed,1400,1654,11132
+String MergeSort,Reversed,1400,1889,5052
+Ternary QuickSort,Reversed,1400,683,24170
+MSD Radix Sort,Reversed,1400,893,0
+MSD Radix+Quick,Reversed,1400,676,12167
+Standard QuickSort,Almost,1400,2643,231924
+Standard MergeSort,Almost,1400,1771,16901
+String MergeSort,Almost,1400,2050,7516
+Ternary QuickSort,Almost,1400,811,24560
+MSD Radix Sort,Almost,1400,875,0
+MSD Radix+Quick,Almost,1400,649,10836
+Standard QuickSort,Random,1500,3028,251089
+Standard MergeSort,Random,1500,1989,19116
+String MergeSort,Random,1500,2538,12733
+Ternary QuickSort,Random,1500,1153,33779
+MSD Radix Sort,Random,1500,763,0
+MSD Radix+Quick,Random,1500,684,10209
+Standard QuickSort,Reversed,1500,2488,235019
+Standard MergeSort,Reversed,1500,1768,12180
+String MergeSort,Reversed,1500,1976,5525
+Ternary QuickSort,Reversed,1500,725,26545
+MSD Radix Sort,Reversed,1500,1031,0
+MSD Radix+Quick,Reversed,1500,720,12931
+Standard QuickSort,Almost,1500,2795,250247
+Standard MergeSort,Almost,1500,1967,19399
+String MergeSort,Almost,1500,2224,8593
+Ternary QuickSort,Almost,1500,879,25621
+MSD Radix Sort,Almost,1500,922,0
+MSD Radix+Quick,Almost,1500,703,11830
+Standard QuickSort,Random,1600,3197,262029
+Standard MergeSort,Random,1600,2121,20688
+String MergeSort,Random,1600,2757,13623
+Ternary QuickSort,Random,1600,945,27391
+MSD Radix Sort,Random,1600,853,0
+MSD Radix+Quick,Random,1600,741,11164
+Standard QuickSort,Reversed,1600,2592,249251
+Standard MergeSort,Reversed,1600,1912,13043
+String MergeSort,Reversed,1600,2112,5900
+Ternary QuickSort,Reversed,1600,932,29252
+MSD Radix Sort,Reversed,1600,1021,0
+MSD Radix+Quick,Reversed,1600,752,13855
+Standard QuickSort,Almost,1600,3005,264647
+Standard MergeSort,Almost,1600,2065,20997
+String MergeSort,Almost,1600,2342,8953
+Ternary QuickSort,Almost,1600,1063,32659
+MSD Radix Sort,Almost,1600,948,0
+MSD Radix+Quick,Almost,1600,770,12604
+Standard QuickSort,Random,1700,3258,274681
+Standard MergeSort,Random,1700,2319,22259
+String MergeSort,Random,1700,2934,14517
+Ternary QuickSort,Random,1700,1109,29258
+MSD Radix Sort,Random,1700,921,0
+MSD Radix+Quick,Random,1700,780,12107
+Standard QuickSort,Reversed,1700,2716,265474
+Standard MergeSort,Reversed,1700,2059,13931
+String MergeSort,Reversed,1700,2304,6239
+Ternary QuickSort,Reversed,1700,815,29220
+MSD Radix Sort,Reversed,1700,1077,0
+MSD Radix+Quick,Reversed,1700,800,14697
+Standard QuickSort,Almost,1700,3257,283453
+Standard MergeSort,Almost,1700,2307,22529
+String MergeSort,Almost,1700,2544,9747
+Ternary QuickSort,Almost,1700,1173,35295
+MSD Radix Sort,Almost,1700,1028,0
+MSD Radix+Quick,Almost,1700,827,13619
+Standard QuickSort,Random,1800,3514,292249
+Standard MergeSort,Random,1800,2543,23887
+String MergeSort,Random,1800,3159,15556
+Ternary QuickSort,Random,1800,1298,33983
+MSD Radix Sort,Random,1800,977,0
+MSD Radix+Quick,Random,1800,840,13038
+Standard QuickSort,Reversed,1800,2939,281488
+Standard MergeSort,Reversed,1800,2184,15015
+String MergeSort,Reversed,1800,2472,6717
+Ternary QuickSort,Reversed,1800,955,32523
+MSD Radix Sort,Reversed,1800,1177,0
+MSD Radix+Quick,Reversed,1800,852,15662
+Standard QuickSort,Almost,1800,3440,297175
+Standard MergeSort,Almost,1800,2395,24156
+String MergeSort,Almost,1800,2746,10155
+Ternary QuickSort,Almost,1800,1179,32832
+MSD Radix Sort,Almost,1800,1106,0
+MSD Radix+Quick,Almost,1800,850,14392
+Standard QuickSort,Random,1900,3705,309617
+Standard MergeSort,Random,1900,2623,25520
+String MergeSort,Random,1900,3361,16602
+Ternary QuickSort,Random,1900,1176,31298
+MSD Radix Sort,Random,1900,1047,0
+MSD Radix+Quick,Random,1900,917,14206
+Standard QuickSort,Reversed,1900,3078,292205
+Standard MergeSort,Reversed,1900,2350,15948
+String MergeSort,Reversed,1900,2608,7080
+Ternary QuickSort,Reversed,1900,983,34449
+MSD Radix Sort,Reversed,1900,1212,0
+MSD Radix+Quick,Reversed,1900,896,16358
+Standard QuickSort,Almost,1900,3685,317377
+Standard MergeSort,Almost,1900,2578,25265
+String MergeSort,Almost,1900,3003,10978
+Ternary QuickSort,Almost,1900,1204,35390
+MSD Radix Sort,Almost,1900,1145,0
+MSD Radix+Quick,Almost,1900,902,15238
+Standard QuickSort,Random,2000,3842,323485
+Standard MergeSort,Random,2000,2778,27143
+String MergeSort,Random,2000,3550,17517
+Ternary QuickSort,Random,2000,1360,37126
+MSD Radix Sort,Random,2000,1120,0
+MSD Radix+Quick,Random,2000,960,14965
+Standard QuickSort,Reversed,2000,3280,307931
+Standard MergeSort,Reversed,2000,2493,17018
+String MergeSort,Reversed,2000,2872,7502
+Ternary QuickSort,Reversed,2000,1049,36392
+MSD Radix Sort,Reversed,2000,1270,0
+MSD Radix+Quick,Reversed,2000,975,17240
+Standard QuickSort,Almost,2000,4270,337142
+Standard MergeSort,Almost,2000,2852,26868
+String MergeSort,Almost,2000,3205,11433
+Ternary QuickSort,Almost,2000,1193,33986
+MSD Radix Sort,Almost,2000,1283,0
+MSD Radix+Quick,Almost,2000,1028,16372
+Standard QuickSort,Random,2100,4370,345863
+Standard MergeSort,Random,2100,3151,28813
+String MergeSort,Random,2100,3977,18621
+Ternary QuickSort,Random,2100,1537,38170
+MSD Radix Sort,Random,2100,1349,0
+MSD Radix+Quick,Random,2100,1137,16234
+Standard QuickSort,Reversed,2100,3750,323310
+Standard MergeSort,Reversed,2100,2794,17921
+String MergeSort,Reversed,2100,3135,7878
+Ternary QuickSort,Reversed,2100,1196,39170
+MSD Radix Sort,Reversed,2100,1413,0
+MSD Radix+Quick,Reversed,2100,1241,18282
+Standard QuickSort,Almost,2100,4655,353688
+Standard MergeSort,Almost,2100,2939,28177
+String MergeSort,Almost,2100,3266,12252
+Ternary QuickSort,Almost,2100,1380,40871
+MSD Radix Sort,Almost,2100,1388,0
+MSD Radix+Quick,Almost,2100,1062,17225
+Standard QuickSort,Random,2200,4690,360069
+Standard MergeSort,Random,2200,3293,30536
+String MergeSort,Random,2200,4065,19657
+Ternary QuickSort,Random,2200,1475,39282
+MSD Radix Sort,Random,2200,1344,0
+MSD Radix+Quick,Random,2200,1112,17228
+Standard QuickSort,Reversed,2200,3895,344590
+Standard MergeSort,Reversed,2200,2791,18717
+String MergeSort,Reversed,2200,3118,8268
+Ternary QuickSort,Reversed,2200,1205,41442
+MSD Radix Sort,Reversed,2200,1417,0
+MSD Radix+Quick,Reversed,2200,1093,19129
+Standard QuickSort,Almost,2200,4246,365808
+Standard MergeSort,Almost,2200,3057,29271
+String MergeSort,Almost,2200,3444,12879
+Ternary QuickSort,Almost,2200,1471,42668
+MSD Radix Sort,Almost,2200,1360,0
+MSD Radix+Quick,Almost,2200,1169,18218
+Standard QuickSort,Random,2300,4567,375876
+Standard MergeSort,Random,2300,3288,32176
+String MergeSort,Random,2300,4170,20610
+Ternary QuickSort,Random,2300,1508,42615
+MSD Radix Sort,Random,2300,1319,0
+MSD Radix+Quick,Random,2300,1138,18149
+Standard QuickSort,Reversed,2300,3787,358407
+Standard MergeSort,Reversed,2300,2903,19405
+String MergeSort,Reversed,2300,3266,8437
+Ternary QuickSort,Reversed,2300,1461,43309
+MSD Radix Sort,Reversed,2300,1466,0
+MSD Radix+Quick,Reversed,2300,1164,19836
+Standard QuickSort,Almost,2300,4396,392200
+Standard MergeSort,Almost,2300,3248,31754
+String MergeSort,Almost,2300,3562,13383
+Ternary QuickSort,Almost,2300,1486,43416
+MSD Radix Sort,Almost,2300,1407,0
+MSD Radix+Quick,Almost,2300,1120,19141
+Standard QuickSort,Random,2400,4672,387374
+Standard MergeSort,Random,2400,3472,33902
+String MergeSort,Random,2400,4371,21661
+Ternary QuickSort,Random,2400,1544,42741
+MSD Radix Sort,Random,2400,1421,0
+MSD Radix+Quick,Random,2400,1184,19096
+Standard QuickSort,Reversed,2400,4066,379421
+Standard MergeSort,Reversed,2400,3052,20192
+String MergeSort,Reversed,2400,3450,8805
+Ternary QuickSort,Reversed,2400,1365,44896
+MSD Radix Sort,Reversed,2400,1505,0
+MSD Radix+Quick,Reversed,2400,1151,20721
+Standard QuickSort,Almost,2400,4644,399030
+Standard MergeSort,Almost,2400,3406,33614
+String MergeSort,Almost,2400,3803,14150
+Ternary QuickSort,Almost,2400,1743,53146
+MSD Radix Sort,Almost,2400,1508,0
+MSD Radix+Quick,Almost,2400,1193,20103
+Standard QuickSort,Random,2500,4898,409955
+Standard MergeSort,Random,2500,3658,35598
+String MergeSort,Random,2500,4644,22606
+Ternary QuickSort,Random,2500,1807,46308
+MSD Radix Sort,Random,2500,1498,0
+MSD Radix+Quick,Random,2500,1275,20272
+Standard QuickSort,Reversed,2500,4083,389615
+Standard MergeSort,Reversed,2500,3227,20955
+String MergeSort,Reversed,2500,3535,9068
+Ternary QuickSort,Reversed,2500,1243,45699
+MSD Radix Sort,Reversed,2500,1618,0
+MSD Radix+Quick,Reversed,2500,1238,21546
+Standard QuickSort,Almost,2500,4741,420442
+Standard MergeSort,Almost,2500,3477,35039
+String MergeSort,Almost,2500,3944,14740
+Ternary QuickSort,Almost,2500,1599,45600
+MSD Radix Sort,Almost,2500,1531,0
+MSD Radix+Quick,Almost,2500,1229,20905
+Standard QuickSort,Random,2600,5023,412050
+Standard MergeSort,Random,2600,3877,37364
+String MergeSort,Random,2600,4761,23698
+Ternary QuickSort,Random,2600,1840,49139
+MSD Radix Sort,Random,2600,1572,0
+MSD Radix+Quick,Random,2600,1337,21445
+Standard QuickSort,Reversed,2600,4325,410674
+Standard MergeSort,Reversed,2600,3431,21926
+String MergeSort,Reversed,2600,3820,9489
+Ternary QuickSort,Reversed,2600,1580,54299
+MSD Radix Sort,Reversed,2600,1644,0
+MSD Radix+Quick,Reversed,2600,1271,22445
+Standard QuickSort,Almost,2600,5196,438773
+Standard MergeSort,Almost,2600,3659,36505
+String MergeSort,Almost,2600,4250,15638
+Ternary QuickSort,Almost,2600,1770,50376
+MSD Radix Sort,Almost,2600,1611,0
+MSD Radix+Quick,Almost,2600,1282,21817
+Standard QuickSort,Random,2700,5227,434355
+Standard MergeSort,Random,2700,3966,39119
+String MergeSort,Random,2700,5034,24773
+Ternary QuickSort,Random,2700,1924,53530
+MSD Radix Sort,Random,2700,1621,0
+MSD Radix+Quick,Random,2700,1349,22324
+Standard QuickSort,Reversed,2700,4502,423879
+Standard MergeSort,Reversed,2700,3616,22922
+String MergeSort,Reversed,2700,3951,9949
+Ternary QuickSort,Reversed,2700,1721,53579
+MSD Radix Sort,Reversed,2700,1768,0
+MSD Radix+Quick,Reversed,2700,1389,23155
+Standard QuickSort,Almost,2700,5134,451555
+Standard MergeSort,Almost,2700,3852,38134
+String MergeSort,Almost,2700,4330,16174
+Ternary QuickSort,Almost,2700,1843,57151
+MSD Radix Sort,Almost,2700,1655,0
+MSD Radix+Quick,Almost,2700,1325,22768
+Standard QuickSort,Random,2800,5688,461207
+Standard MergeSort,Random,2800,4233,40893
+String MergeSort,Random,2800,5260,25846
+Ternary QuickSort,Random,2800,1944,51350
+MSD Radix Sort,Random,2800,1736,0
+MSD Radix+Quick,Random,2800,1500,23646
+Standard QuickSort,Reversed,2800,4643,441018
+Standard MergeSort,Reversed,2800,3702,23714
+String MergeSort,Reversed,2800,4147,10218
+Ternary QuickSort,Reversed,2800,1567,53323
+MSD Radix Sort,Reversed,2800,1816,0
+MSD Radix+Quick,Reversed,2800,1473,24048
+Standard QuickSort,Almost,2800,5437,463749
+Standard MergeSort,Almost,2800,3983,40007
+String MergeSort,Almost,2800,4529,17021
+Ternary QuickSort,Almost,2800,1699,51695
+MSD Radix Sort,Almost,2800,1762,0
+MSD Radix+Quick,Almost,2800,1415,23781
+Standard QuickSort,Random,2900,6000,481480
+Standard MergeSort,Random,2900,4356,42652
+String MergeSort,Random,2900,5466,26905
+Ternary QuickSort,Random,2900,2353,57249
+MSD Radix Sort,Random,2900,1785,0
+MSD Radix+Quick,Random,2900,1577,24757
+Standard QuickSort,Reversed,2900,4778,458016
+Standard MergeSort,Reversed,2900,3844,24806
+String MergeSort,Reversed,2900,4275,10678
+Ternary QuickSort,Reversed,2900,1534,56660
+MSD Radix Sort,Reversed,2900,1847,0
+MSD Radix+Quick,Reversed,2900,1404,24908
+Standard QuickSort,Almost,2900,5635,494075
+Standard MergeSort,Almost,2900,4143,41572
+String MergeSort,Almost,2900,4700,17600
+Ternary QuickSort,Almost,2900,1962,60189
+MSD Radix Sort,Almost,2900,1772,0
+MSD Radix+Quick,Almost,2900,1433,24621
+Standard QuickSort,Random,3000,6173,497137
+Standard MergeSort,Random,3000,4477,44309
+String MergeSort,Random,3000,5616,27874
+Ternary QuickSort,Random,3000,2210,58127
+MSD Radix Sort,Random,3000,1878,0
+MSD Radix+Quick,Random,3000,1616,25885
+Standard QuickSort,Reversed,3000,4873,469526
+Standard MergeSort,Reversed,3000,3970,25819
+String MergeSort,Reversed,3000,4477,11047
+Ternary QuickSort,Reversed,3000,1445,52707
+MSD Radix Sort,Reversed,3000,1881,0
+MSD Radix+Quick,Reversed,3000,1487,25913
+Standard QuickSort,Almost,3000,5226,483747
+Standard MergeSort,Almost,3000,4293,43156
+String MergeSort,Almost,3000,4995,18375
+Ternary QuickSort,Almost,3000,1883,56809
+MSD Radix Sort,Almost,3000,1853,0
+MSD Radix+Quick,Almost,3000,1515,25824
